@@ -1,0 +1,115 @@
+.main {
+  width: 40%;
+  margin: auto;
+  border: 1px solid rgb(240, 240, 240);
+  /* display: flex;
+  justify-content: center;
+  min-height: 100vh;
+  background-color: #ffff;
+  border: 1px solid bisque; */
+
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+    rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.img-1 {
+  width: 608px;
+}
+
+.img-2 {
+  width: 140px;
+  border-radius: 10px;
+}
+
+.img-3 {
+  width: 550px;
+}
+
+.img-4 {
+  width: 450px;
+}
+
+.img-5 {
+  width: 350px;
+}
+
+.header {
+  position: relative;
+}
+
+.tag-1 {
+  color: inherit;
+  text-decoration: inherit;
+}
+
+.btn-1 {
+  position: absolute;
+  right: 20px;
+  top: 15px;
+  font-size: 20px;
+  color: rgb(60, 60, 60);
+}
+
+.btn-2 {
+  width: 100%;
+  border-radius: 10px;
+  font-weight: bold;
+  color: rgb(240, 240, 240);
+  background-color: rgb(139, 0, 0);
+  padding-top: 17px;
+  padding-bottom: 17px;
+  font-size: 20px;
+  margin-bottom: 30px;
+}
+
+.btn-2:hover {
+  color: rgb(139, 0, 0);
+  background-color: rgb(240, 240, 240);
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.prof {
+  margin-top: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.Andrei {
+  font-size: 20px;
+  padding-left: 15px;
+  color: black;
+}
+
+.profile {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border: 1px solid rgb(240, 240, 240);
+  border-radius: 10px;
+  margin-top: 10px;
+  background-color: rgb(240, 240, 240);
+  text-decoration: none;
+}
+
+.butt {
+  position: absolute;
+  right: 20px;
+}
+
+.text-main {
+  width: 60px;
+  padding-bottom: 10px;
+  border-bottom: 5px solid rgb(240, 240, 240);
+}
+
+/* .sim {
+  position: relative;
+}
+
+.sim-t {
+  position: relative;
+  left: 40px;
+  top: 10px;
+} */
